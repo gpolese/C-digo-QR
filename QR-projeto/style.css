@@ -1,0 +1,31 @@
+ @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Rubik&family=Secular+One&display=swap');
+
+ body {
+    background-color: #D5E1EF;
+ }
+
+ #caixa{
+    background-color: white;
+    width: 350px;
+    height: 550px;
+    border-radius: 20px;
+    margin-top: 200;
+    margin-left: 40%;
+ }
+
+ #caixa .imagem {
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+  border-radius: 40px;
+}
+
+.titulo {
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   text-align: center;
+}
+
+.subtitulo {
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   text-align: center;
+}
